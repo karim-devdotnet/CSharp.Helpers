@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace CSharp.Helpers.Extensions
+namespace CSharp.Helpers.ValidationAttributes
 {
     /// <summary>
     /// Validation attribute which indicates that annotated field is required when computed result of given logical expression is true.

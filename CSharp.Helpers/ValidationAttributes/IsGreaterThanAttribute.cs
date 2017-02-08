@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.Globalization;
 
-namespace CSharp.Helpers.Extensions
+namespace CSharp.Helpers.ValidationAttributes
 {
     /// <summary>
     /// Compare two times,the second time (To) must be greater than the first time

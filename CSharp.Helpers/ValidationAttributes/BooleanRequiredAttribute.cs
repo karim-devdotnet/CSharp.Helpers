@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace CSharp.Helpers.Extensions
+namespace CSharp.Helpers.ValidationAttributes
 {
     public class BooleanRequiredAttribute : RequiredAttribute
     {
