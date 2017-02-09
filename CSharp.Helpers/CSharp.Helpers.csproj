@@ -80,6 +80,7 @@
     <Compile Include="Helpers\CommonHelper.cs" />
     <Compile Include="Helpers\ConverterHelper.cs" />
     <Compile Include="Helpers\GeographyHelper.cs" />
+    <Compile Include="Helpers\RegexHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ValidationAttributes\BooleanRequiredAttribute.cs" />
     <Compile Include="ValidationAttributes\IsGreaterThanAttribute.cs" />
