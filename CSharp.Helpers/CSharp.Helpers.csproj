@@ -71,6 +71,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ActionFilterAttributes\NoCacheGlobalActionFilter.cs" />
     <Compile Include="ActionFilterAttributes\TrackTimeAttribute.cs" />
     <Compile Include="Extensions\GuidExtensions.cs" />
     <Compile Include="Extensions\LinqExtensions.cs" />
