@@ -74,6 +74,7 @@
     <Compile Include="ActionFilterAttributes\AuditAttribute.cs" />
     <Compile Include="ActionFilterAttributes\NoCacheGlobalActionFilter.cs" />
     <Compile Include="ActionFilterAttributes\TrackTimeAttribute.cs" />
+    <Compile Include="Extensions\FileInfoExtensions.cs" />
     <Compile Include="Extensions\GuidExtensions.cs" />
     <Compile Include="Extensions\LinqExtensions.cs" />
     <Compile Include="Extensions\StringExtensions.cs" />
