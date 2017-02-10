@@ -72,6 +72,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ActionFilterAttributes\AuditAttribute.cs" />
+    <Compile Include="ActionFilterAttributes\InternationalizationAttribute.cs" />
     <Compile Include="ActionFilterAttributes\NoCacheGlobalActionFilter.cs" />
     <Compile Include="ActionFilterAttributes\TrackTimeAttribute.cs" />
     <Compile Include="Extensions\FileInfoExtensions.cs" />
